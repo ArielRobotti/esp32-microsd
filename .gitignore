@@ -3,6 +3,8 @@ ESP32_MicroSD/ESP32_MicroSD-backups/
 ESP32_MicroSD/_autosave*.*
 ESP32_MicroSD/#auto_saved_files#
 ESP32_MicroSD/#*
+ESP32_MicroSD/fp-info-cache
+ESP32_MicroSD/fp-lib-table
 
 
 
