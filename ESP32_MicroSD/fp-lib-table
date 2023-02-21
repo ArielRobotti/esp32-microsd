@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Ariel")(type "KiCad")(uri "${KIPRJMOD}/lib microsd/footprints.pretty/Ariel.pretty")(options "")(descr ""))
+)

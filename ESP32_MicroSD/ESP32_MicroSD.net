@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "C:\\Users\\Ariel\\Downloads\\KicadGit\\esp32-microsd\\ESP32_MicroSD\\ESP32_MicroSD.kicad_sch")
-    (date "21/02/2023 19:00:15")
+    (date "21/02/2023 20:03:29")
     (tool "Eeschema (6.0.5)")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -38,6 +38,7 @@
       (tstamps "3325906f-07a8-47c3-9541-eca4478826f1"))
     (comp (ref "J2")
       (value "Micro_SD_Card")
+      (footprint "Ariel:Micro_SD_5033981892")
       (datasheet "http://katalog.we-online.de/em/datasheet/693072010801.pdf")
       (libsource (lib "Connector") (part "Micro_SD_Card") (description "Micro SD Card Socket"))
       (property (name "Sheetname") (value ""))
