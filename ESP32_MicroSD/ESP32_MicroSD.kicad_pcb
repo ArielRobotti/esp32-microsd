@@ -329,7 +329,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 854d1e07-79b2-4c1a-8060-518bcc689895)
-    (at 88.9 78.74 180)
+    (at 73.66 80.01 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "")
@@ -517,5 +517,8 @@
       (rotate (xyz 0 0 0))
     )
   )
+
+  (segment (start 72.075 80.01) (end 72.71 80.01) (width 0.25) (layer "F.Cu") (net 6) (tstamp 14b6391c-b0c6-4ced-b161-62e9f2e25572))
+  (segment (start 68.7 83.385) (end 72.075 80.01) (width 0.25) (layer "F.Cu") (net 6) (tstamp f1f21bd5-9d1b-4773-a3ec-1135afc1fc06))
 
 )
