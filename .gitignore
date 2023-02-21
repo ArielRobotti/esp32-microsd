@@ -1,6 +1,8 @@
-ESP32_MicroSD-backups
+ESP32_MicroSD/ESP32_MicroSD-backups/
 
 _autosave*.*
+#auto_saved_files#
+#*
 
 
 
