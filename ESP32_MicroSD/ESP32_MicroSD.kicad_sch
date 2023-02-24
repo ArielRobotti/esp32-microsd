@@ -1617,7 +1617,7 @@
     (uuid c44472a6-5859-4bba-8e92-30fe02165afa)
     (property "Reference" "D1" (id 0) (at 146.3675 106.68 0))
     (property "Value" "LED" (id 1) (at 146.3675 109.22 0))
-    (property "Footprint" "" (id 2) (at 144.78 114.3 0)
+    (property "Footprint" "LED_SMD:LED_0805_2012Metric" (id 2) (at 144.78 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 144.78 114.3 0)
@@ -1753,7 +1753,7 @@
       (reference "C2") (unit 1) (value "100u") (footprint "Capacitor_SMD:CP_Elec_4x5.7")
     )
     (path "/c44472a6-5859-4bba-8e92-30fe02165afa"
-      (reference "D1") (unit 1) (value "LED") (footprint "")
+      (reference "D1") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric")
     )
     (path "/3325906f-07a8-47c3-9541-eca4478826f1"
       (reference "J1") (unit 1) (value "Conn_01x10_Female") (footprint "Connector_PinHeader_1.27mm:PinHeader_1x10_P1.27mm_Vertical")
