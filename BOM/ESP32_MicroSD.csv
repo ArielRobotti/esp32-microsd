@@ -1,0 +1,11 @@
+"Id";"Identificador";"Huella";"Cantidad";"Identificación";"Suministrador y ref";
+1;"J2";"Micro SD";1;"Micro_SD_Card";;;
+2;"C2";"C_0805_2012Metric";1;"10u";;;
+3;"U1";"ESP32-WROOM-32U";1;"ESP32-WROOM-32U";;;
+4;"SW1";"SW_SPDT_PCM12";1;"On";;;
+5;"R5";"R_0805_2012Metric";1;"68R";;;
+6;"D1";"LED_0805_2012Metric";1;"LED";;;
+7;"C1";"C_0805_2012Metric";1;"100n";;;
+8;"R1,R3,R2,R4";"R_0805_2012Metric";4;"10K";;;
+9;"J1";"PinHeader_1x10_P1.27mm_Vertical";1;"Conn_01x10_Female";;;
+10;"JP1";"SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm";1;"Jumper_2_Open";;;
